@@ -1,0 +1,7 @@
+S_NOR	R_NOR	Sn_NAND	Rn_NAND	Gate	D	Q_NOR	Qn_NOR	Q_NAND	Qn_NAND Qn_GateD Q_GateD
+0	1	0	0	1	0	0	1	1	1	1	0
+0	1	0	0	1	0	0	1	1	1	1	0
+1	0	0	1	1	1	1	0	1	0	0	1
+1	0	0	1	1	1	1	0	1	0	0	1
+1	1	1	0	1	0	0	0	0	1	1	0
+1	1	1	0	1	1	0	0	0	1	0	1

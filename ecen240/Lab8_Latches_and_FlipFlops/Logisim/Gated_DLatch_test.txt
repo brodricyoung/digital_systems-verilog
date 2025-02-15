@@ -1,0 +1,5 @@
+Gate	D	Qn_GateD Q_GateD
+1	0	1	0
+1	0	1	0
+1	1	0	1
+1	1	0	1

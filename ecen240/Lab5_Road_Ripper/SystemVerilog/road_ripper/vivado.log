@@ -1,0 +1,38 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Thu Feb 13 23:23:55 2025
+# Process ID         : 4704
+# Current directory  : C:/Users/young/OneDrive/Documents/- Hardware Labs/digital_systems-verilog/ecen240/Lab5_Road_Ripper/System_Verilog/road_ripper
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent44768 C:\Users\young\OneDrive\Documents\- Hardware Labs\digital_systems-verilog\ecen240\Lab5_Road_Ripper\System_Verilog\road_ripper\road_ripper.xpr
+# Log file           : C:/Users/young/OneDrive/Documents/- Hardware Labs/digital_systems-verilog/ecen240/Lab5_Road_Ripper/System_Verilog/road_ripper/vivado.log
+# Journal file       : C:/Users/young/OneDrive/Documents/- Hardware Labs/digital_systems-verilog/ecen240/Lab5_Road_Ripper/System_Verilog/road_ripper\vivado.jou
+# Running On         : Brodrics_laptop
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+# CPU Frequency      : 1992 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 8465 MB
+# Swap memory        : 9663 MB
+# Total Virtual      : 18128 MB
+# Available Virtual  : 7570 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/young/OneDrive/Documents/- Hardware Labs/digital_systems-verilog/ecen240/Lab5_Road_Ripper/System_Verilog/road_ripper/road_ripper.xpr}
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'C:/Users/young/OneDrive/Documents/- Hardware Labs/digital_systems-verilog/ecen240/Lab5_Road_Ripper/System_Verilog/road_ripper'
+INFO: [Project 1-313] Project file moved from 'C:/Users/young/OneDrive/Documents/- Hardware Labs/digital_systems-verilog/ecen240/Lab5_Road_Ripper/road_ripper' since last save.
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/young/OneDrive/Documents/- Hardware Labs/digital_systems-verilog/ecen240/Lab5_Road_Ripper/System_Verilog/road_ripper/road_ripper.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2024.2/data/ip'.
+open_project: Time (s): cpu = 00:00:06 ; elapsed = 00:00:07 . Memory (MB): peak = 1210.477 ; gain = 93.031
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Feb 13 23:28:45 2025...

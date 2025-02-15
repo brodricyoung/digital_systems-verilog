@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Thu Feb 13 23:23:55 2025
+# Process ID         : 4704
+# Current directory  : C:/Users/young/OneDrive/Documents/- Hardware Labs/digital_systems-verilog/ecen240/Lab5_Road_Ripper/System_Verilog/road_ripper
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent44768 C:\Users\young\OneDrive\Documents\- Hardware Labs\digital_systems-verilog\ecen240\Lab5_Road_Ripper\System_Verilog\road_ripper\road_ripper.xpr
+# Log file           : C:/Users/young/OneDrive/Documents/- Hardware Labs/digital_systems-verilog/ecen240/Lab5_Road_Ripper/System_Verilog/road_ripper/vivado.log
+# Journal file       : C:/Users/young/OneDrive/Documents/- Hardware Labs/digital_systems-verilog/ecen240/Lab5_Road_Ripper/System_Verilog/road_ripper\vivado.jou
+# Running On         : Brodrics_laptop
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+# CPU Frequency      : 1992 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 8465 MB
+# Swap memory        : 9663 MB
+# Total Virtual      : 18128 MB
+# Available Virtual  : 7570 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/young/OneDrive/Documents/- Hardware Labs/digital_systems-verilog/ecen240/Lab5_Road_Ripper/System_Verilog/road_ripper/road_ripper.xpr}
+update_compile_order -fileset sources_1

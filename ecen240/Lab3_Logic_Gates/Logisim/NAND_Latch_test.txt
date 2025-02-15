@@ -1,0 +1,7 @@
+Sn_NAND	Rn_NAND	Q_NAND	Qn_NAND
+0	0	1	1
+0	0	1	1
+0	1	1	0
+0	1	1	0
+1	0	0	1
+1	0	0	1
