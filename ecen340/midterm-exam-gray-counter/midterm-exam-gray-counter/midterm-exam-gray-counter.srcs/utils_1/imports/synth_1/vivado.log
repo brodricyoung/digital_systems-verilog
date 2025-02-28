@@ -1,0 +1,48 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Thu Feb 27 17:47:43 2025
+# Process ID         : 22156
+# Current directory  : C:/Users/young/OneDrive/Documents/- Hardware Labs/digital_systems-verilog/ecen340/midterm-exam-gray-counter/midterm-exam-gray-counter/midterm-exam-gray-counter.srcs/utils_1/imports/synth_1
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent26596 C:\Users\young\OneDrive\Documents\- Hardware Labs\digital_systems-verilog\ecen340\midterm-exam-gray-counter\midterm-exam-gray-counter\midterm-exam-gray-counter.srcs\utils_1\imports\synth_1\gray_counter_top.dcp
+# Log file           : C:/Users/young/OneDrive/Documents/- Hardware Labs/digital_systems-verilog/ecen340/midterm-exam-gray-counter/midterm-exam-gray-counter/midterm-exam-gray-counter.srcs/utils_1/imports/synth_1/vivado.log
+# Journal file       : C:/Users/young/OneDrive/Documents/- Hardware Labs/digital_systems-verilog/ecen340/midterm-exam-gray-counter/midterm-exam-gray-counter/midterm-exam-gray-counter.srcs/utils_1/imports/synth_1\vivado.jou
+# Running On         : Brodrics_laptop
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+# CPU Frequency      : 1992 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 8465 MB
+# Swap memory        : 9613 MB
+# Total Virtual      : 18078 MB
+# Available Virtual  : 2503 MB
+#-----------------------------------------------------------
+start_gui
+open_checkpoint {C:/Users/young/OneDrive/Documents/- Hardware Labs/digital_systems-verilog/ecen340/midterm-exam-gray-counter/midterm-exam-gray-counter/midterm-exam-gray-counter.srcs/utils_1/imports/synth_1/gray_counter_top.dcp}
+Command: open_checkpoint {C:/Users/young/OneDrive/Documents/- Hardware Labs/digital_systems-verilog/ecen340/midterm-exam-gray-counter/midterm-exam-gray-counter/midterm-exam-gray-counter.srcs/utils_1/imports/synth_1/gray_counter_top.dcp}
+
+Starting open_checkpoint Task
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.157 . Memory (MB): peak = 1122.496 ; gain = 11.262
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2024.2/data/ip'.
+INFO: [Device 21-403] Loading part xc7a35tcpg236-1
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.005 . Memory (MB): peak = 1391.121 ; gain = 0.000
+INFO: [Netlist 29-17] Analyzing 7 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-479] Netlist was created with Vivado 2024.2
+INFO: [Project 1-570] Preparing netlist for logic optimization
+Read ShapeDB Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.005 . Memory (MB): peak = 1478.391 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1479.367 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+INFO: [Project 1-604] Checkpoint was created with Vivado v2024.2 (64-bit) build 5239630
+open_checkpoint: Time (s): cpu = 00:00:19 ; elapsed = 00:00:22 . Memory (MB): peak = 1844.090 ; gain = 753.098
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Feb 27 17:48:45 2025...
