@@ -1,0 +1,272 @@
+Time resolution is 1 ps
+Resetting state to 000
+At time                    0, btnC = 1, led = 000
+Resetting state to 000
+At time                20000, btnC = 0, led = 000
+At time                20000, btnC = 0, led = 000
+Updating state to 000
+At time                30000, btnC = 0, led = 001
+At time                30000, btnC = 0, led = 001
+Updating state to 001
+At time                50000, btnC = 0, led = 101
+At time                50000, btnC = 0, led = 101
+Updating state to 101
+At time                70000, btnC = 0, led = 111
+At time                70000, btnC = 0, led = 111
+Resetting state to 000
+At time                80000, btnC = 1, led = 000
+At time                80000, btnC = 1, led = 000
+At time                80000, btnC = 1, led = 000
+Resetting state to 000
+At time               100000, btnC = 0, led = 000
+At time               100000, btnC = 0, led = 000
+At time               100000, btnC = 0, led = 000
+At time               100000, btnC = 0, led = 000
+Updating state to 000
+At time               110000, btnC = 0, led = 001
+At time               110000, btnC = 0, led = 001
+At time               110000, btnC = 0, led = 001
+At time               110000, btnC = 0, led = 001
+Updating state to 001
+At time               130000, btnC = 0, led = 101
+At time               130000, btnC = 0, led = 101
+At time               130000, btnC = 0, led = 101
+At time               130000, btnC = 0, led = 101
+Updating state to 101
+At time               150000, btnC = 0, led = 111
+At time               150000, btnC = 0, led = 111
+At time               150000, btnC = 0, led = 111
+At time               150000, btnC = 0, led = 111
+Updating state to 111
+At time               170000, btnC = 0, led = 011
+At time               170000, btnC = 0, led = 011
+At time               170000, btnC = 0, led = 011
+At time               170000, btnC = 0, led = 011
+Updating state to 011
+At time               190000, btnC = 0, led = 010
+At time               190000, btnC = 0, led = 010
+At time               190000, btnC = 0, led = 010
+At time               190000, btnC = 0, led = 010
+Updating state to 010
+At time               210000, btnC = 0, led = 110
+At time               210000, btnC = 0, led = 110
+At time               210000, btnC = 0, led = 110
+At time               210000, btnC = 0, led = 110
+Updating state to 110
+At time               230000, btnC = 0, led = 100
+At time               230000, btnC = 0, led = 100
+At time               230000, btnC = 0, led = 100
+At time               230000, btnC = 0, led = 100
+Updating state to 100
+At time               250000, btnC = 0, led = 000
+At time               250000, btnC = 0, led = 000
+At time               250000, btnC = 0, led = 000
+At time               250000, btnC = 0, led = 000
+Updating state to 000
+At time               270000, btnC = 0, led = 001
+At time               270000, btnC = 0, led = 001
+At time               270000, btnC = 0, led = 001
+At time               270000, btnC = 0, led = 001
+Updating state to 001
+At time               290000, btnC = 0, led = 101
+At time               290000, btnC = 0, led = 101
+At time               290000, btnC = 0, led = 101
+At time               290000, btnC = 0, led = 101
+Resetting state to 000
+At time               300000, btnC = 1, led = 000
+At time               300000, btnC = 1, led = 000
+At time               300000, btnC = 1, led = 000
+At time               300000, btnC = 1, led = 000
+At time               300000, btnC = 1, led = 000
+Resetting state to 000
+At time               320000, btnC = 0, led = 000
+At time               320000, btnC = 0, led = 000
+At time               320000, btnC = 0, led = 000
+At time               320000, btnC = 0, led = 000
+At time               320000, btnC = 0, led = 000
+At time               320000, btnC = 0, led = 000
+Updating state to 000
+At time               330000, btnC = 0, led = 001
+At time               330000, btnC = 0, led = 001
+At time               330000, btnC = 0, led = 001
+At time               330000, btnC = 0, led = 001
+At time               330000, btnC = 0, led = 001
+At time               330000, btnC = 0, led = 001
+Updating state to 001
+At time               350000, btnC = 0, led = 101
+At time               350000, btnC = 0, led = 101
+At time               350000, btnC = 0, led = 101
+At time               350000, btnC = 0, led = 101
+At time               350000, btnC = 0, led = 101
+At time               350000, btnC = 0, led = 101
+Updating state to 101
+At time               370000, btnC = 0, led = 111
+At time               370000, btnC = 0, led = 111
+At time               370000, btnC = 0, led = 111
+At time               370000, btnC = 0, led = 111
+At time               370000, btnC = 0, led = 111
+At time               370000, btnC = 0, led = 111
+Updating state to 111
+At time               390000, btnC = 0, led = 011
+At time               390000, btnC = 0, led = 011
+At time               390000, btnC = 0, led = 011
+At time               390000, btnC = 0, led = 011
+At time               390000, btnC = 0, led = 011
+At time               390000, btnC = 0, led = 011
+Updating state to 011
+At time               410000, btnC = 0, led = 010
+At time               410000, btnC = 0, led = 010
+At time               410000, btnC = 0, led = 010
+At time               410000, btnC = 0, led = 010
+At time               410000, btnC = 0, led = 010
+At time               410000, btnC = 0, led = 010
+Updating state to 010
+At time               430000, btnC = 0, led = 110
+At time               430000, btnC = 0, led = 110
+At time               430000, btnC = 0, led = 110
+At time               430000, btnC = 0, led = 110
+At time               430000, btnC = 0, led = 110
+At time               430000, btnC = 0, led = 110
+Updating state to 110
+At time               450000, btnC = 0, led = 100
+At time               450000, btnC = 0, led = 100
+At time               450000, btnC = 0, led = 100
+At time               450000, btnC = 0, led = 100
+At time               450000, btnC = 0, led = 100
+At time               450000, btnC = 0, led = 100
+Updating state to 100
+At time               470000, btnC = 0, led = 000
+At time               470000, btnC = 0, led = 000
+At time               470000, btnC = 0, led = 000
+At time               470000, btnC = 0, led = 000
+At time               470000, btnC = 0, led = 000
+At time               470000, btnC = 0, led = 000
+Updating state to 000
+At time               490000, btnC = 0, led = 001
+At time               490000, btnC = 0, led = 001
+At time               490000, btnC = 0, led = 001
+At time               490000, btnC = 0, led = 001
+At time               490000, btnC = 0, led = 001
+At time               490000, btnC = 0, led = 001
+Updating state to 001
+At time               510000, btnC = 0, led = 101
+At time               510000, btnC = 0, led = 101
+At time               510000, btnC = 0, led = 101
+At time               510000, btnC = 0, led = 101
+At time               510000, btnC = 0, led = 101
+At time               510000, btnC = 0, led = 101
+Updating state to 101
+At time               530000, btnC = 0, led = 111
+At time               530000, btnC = 0, led = 111
+At time               530000, btnC = 0, led = 111
+At time               530000, btnC = 0, led = 111
+At time               530000, btnC = 0, led = 111
+At time               530000, btnC = 0, led = 111
+Updating state to 111
+At time               550000, btnC = 0, led = 011
+At time               550000, btnC = 0, led = 011
+At time               550000, btnC = 0, led = 011
+At time               550000, btnC = 0, led = 011
+At time               550000, btnC = 0, led = 011
+At time               550000, btnC = 0, led = 011
+Updating state to 011
+At time               570000, btnC = 0, led = 010
+At time               570000, btnC = 0, led = 010
+At time               570000, btnC = 0, led = 010
+At time               570000, btnC = 0, led = 010
+At time               570000, btnC = 0, led = 010
+At time               570000, btnC = 0, led = 010
+Updating state to 010
+At time               590000, btnC = 0, led = 110
+At time               590000, btnC = 0, led = 110
+At time               590000, btnC = 0, led = 110
+At time               590000, btnC = 0, led = 110
+At time               590000, btnC = 0, led = 110
+At time               590000, btnC = 0, led = 110
+Updating state to 110
+At time               610000, btnC = 0, led = 100
+At time               610000, btnC = 0, led = 100
+At time               610000, btnC = 0, led = 100
+At time               610000, btnC = 0, led = 100
+At time               610000, btnC = 0, led = 100
+At time               610000, btnC = 0, led = 100
+Updating state to 100
+At time               630000, btnC = 0, led = 000
+At time               630000, btnC = 0, led = 000
+At time               630000, btnC = 0, led = 000
+At time               630000, btnC = 0, led = 000
+At time               630000, btnC = 0, led = 000
+At time               630000, btnC = 0, led = 000
+Updating state to 000
+At time               650000, btnC = 0, led = 001
+At time               650000, btnC = 0, led = 001
+At time               650000, btnC = 0, led = 001
+At time               650000, btnC = 0, led = 001
+At time               650000, btnC = 0, led = 001
+At time               650000, btnC = 0, led = 001
+Updating state to 001
+At time               670000, btnC = 0, led = 101
+At time               670000, btnC = 0, led = 101
+At time               670000, btnC = 0, led = 101
+At time               670000, btnC = 0, led = 101
+At time               670000, btnC = 0, led = 101
+At time               670000, btnC = 0, led = 101
+Updating state to 101
+At time               690000, btnC = 0, led = 111
+At time               690000, btnC = 0, led = 111
+At time               690000, btnC = 0, led = 111
+At time               690000, btnC = 0, led = 111
+At time               690000, btnC = 0, led = 111
+At time               690000, btnC = 0, led = 111
+Updating state to 111
+At time               710000, btnC = 0, led = 011
+At time               710000, btnC = 0, led = 011
+At time               710000, btnC = 0, led = 011
+At time               710000, btnC = 0, led = 011
+At time               710000, btnC = 0, led = 011
+At time               710000, btnC = 0, led = 011
+Updating state to 011
+At time               730000, btnC = 0, led = 010
+At time               730000, btnC = 0, led = 010
+At time               730000, btnC = 0, led = 010
+At time               730000, btnC = 0, led = 010
+At time               730000, btnC = 0, led = 010
+At time               730000, btnC = 0, led = 010
+Updating state to 010
+At time               750000, btnC = 0, led = 110
+At time               750000, btnC = 0, led = 110
+At time               750000, btnC = 0, led = 110
+At time               750000, btnC = 0, led = 110
+At time               750000, btnC = 0, led = 110
+At time               750000, btnC = 0, led = 110
+Updating state to 110
+At time               770000, btnC = 0, led = 100
+At time               770000, btnC = 0, led = 100
+At time               770000, btnC = 0, led = 100
+At time               770000, btnC = 0, led = 100
+At time               770000, btnC = 0, led = 100
+At time               770000, btnC = 0, led = 100
+Updating state to 100
+At time               790000, btnC = 0, led = 000
+At time               790000, btnC = 0, led = 000
+At time               790000, btnC = 0, led = 000
+At time               790000, btnC = 0, led = 000
+At time               790000, btnC = 0, led = 000
+At time               790000, btnC = 0, led = 000
+Updating state to 000
+At time               810000, btnC = 0, led = 001
+At time               810000, btnC = 0, led = 001
+At time               810000, btnC = 0, led = 001
+At time               810000, btnC = 0, led = 001
+At time               810000, btnC = 0, led = 001
+At time               810000, btnC = 0, led = 001
+Updating state to 001
+At time               830000, btnC = 0, led = 101
+At time               830000, btnC = 0, led = 101
+At time               830000, btnC = 0, led = 101
+At time               830000, btnC = 0, led = 101
+At time               830000, btnC = 0, led = 101
+At time               830000, btnC = 0, led = 101
+Updating state to 101
+At time               850000, btnC = 0, led = 111
+At time               850000, btnC = 0, led = 
