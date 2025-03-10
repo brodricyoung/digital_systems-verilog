@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 02/14/2025 03:12:01 PM
+// Create Date: 11/01/2016 01:36:54 PM
 // Design Name: 
-// Module Name: 4digit_7seg_display
+// Module Name: debounce_div
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,7 +20,17 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module 4digit_7seg_display(
-
+module debounce_div(
+    input clk,
+    output clk_deb
     );
+    reg [15:0] cnt;
+
+    
+    assign clk_deb = cnt[15];
+    
+    initial cnt = 0;
+    always @(posedge clk)
+        cnt <= cnt + 1;
+        
 endmodule
