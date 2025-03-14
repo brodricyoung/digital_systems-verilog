@@ -65,6 +65,9 @@ module digit_selector(
             4'b1000: begin  hex_number = sw[15:12]; // leftmost 4 switches
                             digit_sel = 4'b0111;    // leftmost digit of display
                      end
+            default: begin  hex_number = 4'b0000;    // Default value
+                            digit_sel = 4'b1111;     // No digits active
+                     end
                
         endcase
     end

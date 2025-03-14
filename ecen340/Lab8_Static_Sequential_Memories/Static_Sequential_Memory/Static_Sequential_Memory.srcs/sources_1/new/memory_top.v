@@ -51,15 +51,27 @@ module memory_top(
                        .WE_IM(WE_IM), .WE_OM(WE_OM), .OE_sw(OE_sw), .OE_IM(OE_IM), .OE_op(OE_op), .OE_OM(OE_OM));
     addr_control addrcont(.clk(clk), .center(center), .right(right), .up(up), .down(down), .addr(addr));
 
-   
     assign Ibus_data = OE_sw ? sw : 16'hZZZZ;     
     assign Obus_data = OE_op ? op_data : 16'hZZZZ;  
-    assign op_data = {8'h00, Ibus_data[15:8]} + {8'h00, Ibus_data[7:0]};   
+    
+    /////// timing tests begin ///////
+    // '+'
+//    assign op_data = {8'h00, Ibus_data[15:8]} + {8'h00, Ibus_data[7:0]};
+    
+    // '*'
+//    assign op_data = {8'h00, Ibus_data[15:8]} * {8'h00, Ibus_data[7:0]};
+     
+    // lab 5 multiplier (not pipelined)
+    non_pipelined_multiplier multiply (.y(Ibus_data[15:8]), .x(Ibus_data[7:0]), .clk(clk), .result(op_data));
+    
+    // lab 5 multiplier (pipelined)
+//    pipelined_multiplier multiply (.y(Ibus_data[15:8]), .x(Ibus_data[7:0]), .clk(clk), .result(op_data));
+    /////// timing tests end ////////
+    
     assign disp_data = disp_ID_ODb ? Ibus_data : Obus_data;
     assign led[7:0] = {4'b0000, addr}; // show the address on the four, least significant LEDs. 
      // debug using the following LEDs
-    assign led[15:8] = {disp_ID_ODb, 1'b0, WE_IM, WE_OM, OE_sw, OE_IM, OE_op, OE_OM}; 
-                                               
+    assign led[15:8] = {disp_ID_ODb, 1'b0, WE_IM, WE_OM, OE_sw, OE_IM, OE_op, OE_OM};                                  
 endmodule
 
 module debounce_buttons (
